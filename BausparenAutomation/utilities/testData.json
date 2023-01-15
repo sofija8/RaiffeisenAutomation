@@ -1,0 +1,16 @@
+{
+  "gewinnHeader": "gewinntabellen",
+  "servicesHeader": "services",
+  "loginUrl": "https://sso.raiffeisen.at/mein-login/",
+  "mixZinsHeader": "mixzins bausparen",
+  "kontaktHeader": "kontakt",
+  "gesundheitHeader": "gesundheit & pflege",
+  "searchKeyword": "Renovieren",
+  "nonexistentSearchKeyword": "invalid keyword",
+  "email": "test123@test.com",
+  "invalidEmail": "invalid email",
+  "subscriptionSuccessMessage": "Vielen Dank",
+  "subscriptionErrorMessage": "Bitte geben Sie eine korrekte E-Mail Adresse an",
+  "location": "Villach",
+  "unsupportedLocation": "Sofija test"
+}
